@@ -1,0 +1,28 @@
+//HTML CODE//
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>My Webpage</title>
+<link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <div></div>
+    <div></div>
+    <div></div>
+<h2>MegaOne</h2>
+<ul class="menu">
+    <li >Home </li>
+    <li>AboutUs</li>
+    <li >OurWork</li>
+    <li >Clients</li>
+    <li >OurBlog</li>
+    <li >ContactUs</li> 
+    <li><button ="font-size: 80px;">GetQuote</button></a></li></ul>
+    <br><br><br><br><img src="https://contentstatic.techgig.com/thumb/msid-86142037,width-460,resizemode-4/3-Brainiest-things-for-coders-on-Programmers-Day.jpg?21764" alt="text"><h3>Creative <br>Digital Agency</h3></span>
+</div>
+</div>
+</body>
+</html>
+ 
